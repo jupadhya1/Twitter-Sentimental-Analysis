@@ -1,0 +1,3 @@
+https://machinelearningmastery.com/prepare-movie-review-data-sentiment-analysis/
+https://ccc.inaoep.mx/~villasen/bib/Opinion%20Polarity%20Identification%20of%20Movie%20Reviews.pdf
+http://www.globalcis.org/ijact/ppl/IJACT3317PPL.pdf
